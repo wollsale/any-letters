@@ -1,0 +1,23 @@
+{
+  "name": "any-letters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wollsale/any-letters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wollsale/any-letters/issues"
+  },
+  "homepage": "https://github.com/wollsale/any-letters#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
